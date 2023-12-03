@@ -1,3 +1,7 @@
 {
-    "editor.inlineSuggest.showToolbar": "onHover"
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "github.copilot.chat.localeOverride": "pt-br",
+    "github.copilot.enable": {
+        "markdown": "true"
+    }
 }
